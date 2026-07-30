@@ -1,16 +1,42 @@
-# React + Vite
+## 📸 Preview
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+### Home Page
+![Home](./screenshots/home.png)
 
-Currently, two official plugins are available:
+### Contact Form
+![Contact Form](./screenshots/contact-form.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+# 🎨 Creative Developer Portfolio
 
-## Expanding the Oxlint configuration
+A modern and responsive portfolio website built with **React**, **JavaScript**, **Tailwind CSS**, **Framer Motion**, and **Spline 3D**. It showcases my skills, projects, and includes an interactive contact form with smooth animations.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## ✨ Features
+
+- ⚛️ React + TypeScript
+- 🎨 Tailwind CSS
+- 🎬 Framer Motion Animations
+- 🧊 Interactive Spline 3D Model
+- 📱 Fully Responsive Design
+- 📩 Contact Form Modal
+- 🌈 Gradient Text & Modern UI
+
+## 🛠️ Tech Stack
+
+- React
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- Spline
+- React Icons
+- Vite
+
+```
+
+## 👨‍💻 Author
+
+**Vishal Katarha**
+
+- GitHub: https://github.com/VishalKatarha
+- LinkedIn: https://linkedin.com/in/vishalkatarha
