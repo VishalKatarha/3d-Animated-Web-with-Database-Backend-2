@@ -32,11 +32,9 @@ A modern and responsive portfolio website built with **React**, **JavaScript**, 
 - React Icons
 - Vite
 
-```
-
 ## 👨‍💻 Author
 
-**Vishal Katarha**
+Vishal Katarha - Creative Technologist & Software Developer
 
 - GitHub: https://github.com/VishalKatarha
 - LinkedIn: https://linkedin.com/in/vishalkatarha
